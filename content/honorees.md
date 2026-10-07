@@ -1,0 +1,299 @@
+## 2027 LEGACY DISTINGUISHED HONOREES
+
+The 2027 Legacy Distinguished Honorees recognize individuals, organizations, and cultural forces whose vision created possibilities, expanded platforms, strengthened communities, developed talent, and helped move Hip Hop and its influence forward.
+
+They did not simply participate in the culture. They helped shape what the culture could become.
+
+### DISTINGUISHED AWARDS
+
+- **Legacy Leadership &amp; Impact Award:** Ms. Sylvia Rhone
+- **Legacy Cultural Expansion Award:** Mr. Benny Medina
+- **Legacy Pioneer &amp; Hip Hop Visionary Award:** Mr. Magic
+- **Legacy Industry Visionary &amp; Cultural Preservation Award:** Al Pizarro
+- **Legacy International DJ Visionary &amp; Cultural Expansion Award:** Tony Prince
+- **Legacy Leadership &amp; Community Impact Award:** Rod Strickland
+- **Legacy Sports Innovator Award:** AND1
+- **Legacy Cultural Impact Award:** Michael Bivens • Jay-Z • Fat Joe
+- **Legacy Boxing Visionary and Champions Award:** Milton "Supreme" McCroix
+- **Legacy Boxing Impact Trailblazers:** Mike Tyson • Zab Judah
+
+---
+
+## 2027 LEGACY MUSIC &amp; CULTURE HONOREES
+
+The 2027 Legacy Music &amp; Culture Honorees recognize the architects, innovators, executives, entrepreneurs, media pioneers, creators, organizations, community builders, and cultural institutions whose work helped build, shape, document, expand, and preserve Hip Hop and the industries surrounding it.
+
+<div class="roster">
+<div class="roster-title">I. DJ Architects</div>
+<div class="name"><b>DJ Al Pizarro</b></div>
+<div class="name"><b>Kool Herc</b></div>
+<div class="name"><b>Grand Wizard Theodore</b></div>
+<div class="name"><b>Grandmaster Flash</b></div>
+<div class="name"><b>Afrika Bambaataa</b></div>
+<div class="name"><b>Jam Master Jay</b></div>
+<div class="name"><b>DJ Jazzy Jeff</b></div>
+<div class="name"><b>Kid Capri</b></div>
+<div class="name"><b>DJ Ron G</b></div>
+<div class="name"><b>DJ Jazzy Jay</b></div>
+<div class="name"><b>DJ Yella</b></div>
+<div class="name"><b>Terminator X</b></div>
+<div class="name"><b>Mix Master Spade</b></div>
+<div class="name"><b>DJ Screw</b></div>
+<div class="name"><b>DJ Smurf</b></div>
+<div class="name"><b>Mr. Mix</b></div>
+<div class="name"><b>DJ Kay Slay</b></div>
+<div class="name"><b>DJ Funk</b></div>
+<div class="name"><b>DJ Slugo</b></div>
+<div class="name"><b>DJ Assault</b></div>
+<div class="name"><b>DJ Godfather</b></div>
+<div class="name"><b>DJ Charlie Chase</b></div>
+<div class="name"><b>DJ Hollywood</b></div>
+<div class="name"><b>DJ D-Nice</b></div>
+<div class="name"><b>DJ Cut Creator</b></div>
+<div class="name"><b>Eric B</b></div>
+
+<div class="roster-title">Female DJ Architects</div>
+<div class="name"><b>Kool Lady Blue</b></div>
+<div class="name"><b>Jazzy Joyce</b></div>
+<div class="name"><b>Lisa Lee</b></div>
+<div class="name"><b>Spinderella</b></div>
+<div class="name"><b>Lady D</b></div>
+<div class="name"><b>DJ Shorter</b></div>
+<div class="name"><b>DJ Heather</b></div>
+<div class="name"><b>Coco Chanelle</b></div>
+
+<div class="roster-title">II. Sound Architects</div>
+<div class="name"><b>Marley Marl</b></div>
+<div class="name"><b>The 45 King</b></div>
+<div class="name"><b>DJ Spyder</b></div>
+<div class="name"><b>Daddy-O</b></div>
+<div class="name"><b>DJ Clark Kent</b></div>
+<div class="name"><b>Pete Rock</b></div>
+<div class="name"><b>DJ Premier</b></div>
+<div class="name"><b>Easy Mo Bee</b></div>
+<div class="name"><b>Kay Gee</b></div>
+<div class="name"><b>Dame Grease</b></div>
+<div class="name"><b>RZA</b></div>
+<div class="name"><b>The Bomb Squad</b></div>
+<div class="name"><b>Luke</b></div>
+<div class="name"><b>Larry Smith</b></div>
+<div class="name"><b>Vinny Idol</b></div>
+<div class="name"><b>Truck Daddy</b></div>
+<div class="name"><b>Dr. Dre</b></div>
+<div class="name"><b>Mannie Fresh</b></div>
+<div class="name"><b>Organized Noize</b></div>
+<div class="name"><b>DJ Paul &amp; Juicy J</b></div>
+<div class="name"><b>No I.D.</b></div>
+<div class="name"><b>Chris Chatty &amp; Dante Lynch</b></div>
+<div class="name"><b>Radcliffe "Rock" Isaacs</b></div>
+
+<div class="roster-title">Female Sound Architects</div>
+<div class="name"><b>Sylvia Robinson</b></div>
+<div class="name"><b>Queen Latifah</b></div>
+<div class="name"><b>Lauryn Hill</b></div>
+<div class="name"><b>Missy Elliott</b></div>
+
+<div class="roster-title">III. Radio Personalities</div>
+<div class="name"><b>DJ Red Alert</b></div>
+<div class="name"><b>DJ Scribbles</b></div>
+<div class="name"><b>DJ Chuck Chill-Out</b></div>
+<div class="name"><b>Funkmaster Flex</b></div>
+<div class="name"><b>Angie Martinez</b></div>
+<div class="name"><b>Mister Cee</b></div>
+<div class="name"><b>Kay Slay</b></div>
+<div class="name"><b>Heather B</b></div>
+<div class="name"><b>DJ Nibs</b></div>
+<div class="name"><b>Big Boy</b></div>
+<div class="name"><b>Julio G</b></div>
+<div class="name"><b>Felix Sama</b></div>
+<div class="name"><b>Greg Street</b></div>
+<div class="name"><b>DJ Funk</b></div>
+<div class="name"><b>Wendy Williams</b></div>
+
+<div class="roster-title">IV. Video TV Hosts</div>
+<div class="name"><b>Ralph McDaniels</b></div>
+<div class="name"><b>Fab 5 Freddy</b></div>
+<div class="name"><b>Debra Coco</b></div>
+<div class="name"><b>Leslie Segar</b></div>
+<div class="name"><b>Ed Lover</b></div>
+<div class="name"><b>Big Tigger</b></div>
+<div class="name"><b>Donnie Simpson</b></div>
+<div class="name"><b>Downtown Julie Brown</b></div>
+<div class="name"><b>Amanda Lewis</b></div>
+<div class="name"><b>Carson Daly</b></div>
+
+<div class="roster-title">V. Designers, Brands &amp; Stylists</div>
+<div class="name"><b>Dapper Dan</b>Designer</div>
+<div class="name"><b>Karl Kani</b>Designer</div>
+<div class="name"><b>FUBU</b>Brand</div>
+<div class="name"><b>Baby Phat</b>Brand</div>
+<div class="name"><b>Enyce</b>Brand</div>
+<div class="name"><b>Mecca</b>Brand</div>
+<div class="name"><b>Sean John</b>Brand</div>
+<div class="name"><b>Southpole</b>Brand</div>
+<div class="name"><b>adidas</b>Brand</div>
+<div class="name"><b>Timberland</b>Brand</div>
+<div class="name"><b>Misa Hylton</b>Image / Stylist</div>
+<div class="name"><b>June Ambrose</b>Image / Stylist</div>
+<div class="name"><b>Virgil Abloh</b>Image / Stylist</div>
+
+<div class="roster-title">VI. Videographers</div>
+<div class="name"><b>Michael Holman</b></div>
+<div class="name"><b>Hype Williams</b></div>
+<div class="name"><b>J. Jesses Smith</b></div>
+<div class="name"><b>Lionel Martin</b></div>
+<div class="name"><b>Millicent Sheldon</b></div>
+<div class="name"><b>Paul Hunter</b></div>
+<div class="name"><b>Chris Robinson</b></div>
+<div class="name"><b>Billie Woodruff</b></div>
+<div class="name"><b>Diane Martel</b></div>
+<div class="name"><b>Director X</b></div>
+<div class="name"><b>Brett Ratner</b></div>
+<div class="name"><b>Tim Story</b></div>
+
+<div class="roster-title">VII. Media &amp; Cultural Documentation</div>
+<div class="name"><b>Right On Magazine</b></div>
+<div class="name"><b>Word Up Magazine</b></div>
+<div class="name"><b>Rap Sheet</b></div>
+<div class="name"><b>Black Beat Magazine</b></div>
+<div class="name"><b>The Source</b></div>
+<div class="name"><b>Rap Pages</b></div>
+<div class="name"><b>Hip Hop Connection</b></div>
+<div class="name"><b>Stress Magazine</b></div>
+<div class="name"><b>Vibe Magazine</b></div>
+<div class="name"><b>Ego Trip Magazine</b></div>
+<div class="name"><b>XXL Magazine</b></div>
+<div class="name"><b>The Fader</b></div>
+<div class="name"><b>DJ Times</b></div>
+<div class="name"><b>Hot Rap Songs</b></div>
+<div class="name"><b>Jack the Rapper</b></div>
+<div class="name"><b>The Gavin Report</b></div>
+<div class="name"><b>College Tip Sheet</b></div>
+<div class="name"><b>The Urban Tip Sheet</b></div>
+<div class="name"><b>The Rap Single</b></div>
+<div class="name"><b>SIN</b></div>
+<div class="name"><b>Sway &amp; King Tech</b></div>
+
+<div class="roster-title">VIII. TV Pioneers</div>
+<div class="name"><b>Keenen Ivory Wayans</b></div>
+<div class="name"><b>Andy Borowitz &amp; Susan Borowitz</b></div>
+<div class="name"><b>Ethel Gittelman</b></div>
+<div class="name"><b>Mona Scott</b></div>
+
+<div class="roster-title">IX. Dance Architects &amp; Choreographers</div>
+<div class="name"><b>Boogaloo Shrimp</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Poppin' Pete</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Don Campbellock</b>Hip Hop Dance Architect</div>
+<div class="name"><b>The Lockers</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Crazy Legs</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Rock Steady Crew</b>Hip Hop Dance Architect</div>
+<div class="name"><b>NYC Breakers</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Fable</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Mr. Wiggles</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Speedy</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Ken Swift</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Mr. Freeze</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Frosty Freeze</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Mr. Wave</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Shabba Doo</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Turbo</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Leon &amp; Deon</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Violet</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Electric Boogie Kim</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Reggie Peters</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Alfredo Stevens</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Tanya Edwards</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Fermin Aquino</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Rocafella</b>Hip Hop Dance Architect</div>
+<div class="name"><b>Julie Arenal</b>Global Hip Hop Ambassador</div>
+<div class="name"><b>Fatima Robinson</b>Hip Hop Choreographer</div>
+<div class="name"><b>Tina Landon</b>Hip Hop Choreographer</div>
+<div class="name"><b>Anthony Thomas</b>Hip Hop Choreographer</div>
+<div class="name"><b>Buddha Stretch</b>Hip Hop Choreographer</div>
+<div class="name"><b>Brian "Footwork" Green</b>Hip Hop Choreographer</div>
+<div class="name"><b>Travis Payne</b>Hip Hop Choreographer</div>
+<div class="name"><b>Laurieann Gibson</b>Hip Hop Choreographer</div>
+<div class="name"><b>Darren Henson</b>Hip Hop Choreographer</div>
+<div class="name"><b>Jamal Sims</b>Hip Hop Choreographer</div>
+<div class="name"><b>Big Les</b>Hip Hop Choreographer</div>
+<div class="name"><b>Lisa Jo Thompson</b>Hip Hop Choreographer</div>
+<div class="name"><b>Rosie Perez</b>Pioneer Choreographer</div>
+<div class="name"><b>Paula Abdul</b>Pioneer Choreographer</div>
+<div class="name"><b>Arthur Rainer</b>Pioneer Choreographer</div>
+
+<div class="roster-title">X. Cinema Architects</div>
+<div class="name"><b>Charlie Ahearn</b></div>
+<div class="name"><b>Stan Lathan</b></div>
+<div class="name"><b>Joel Silberg</b></div>
+<div class="name"><b>Michael Schultz</b></div>
+<div class="name"><b>Spike Lee</b></div>
+<div class="name"><b>Hudlin Brothers</b></div>
+<div class="name"><b>Mario Van Peebles</b></div>
+<div class="name"><b>John Singleton</b></div>
+<div class="name"><b>Ice Cube</b></div>
+<div class="name"><b>Ernest Dickerson</b></div>
+<div class="name"><b>The Hughes Brothers</b></div>
+<div class="name"><b>Gary Gray</b></div>
+
+<div class="roster-title">XI. Sports &amp; Community Impact</div>
+<div class="name"><b>1 Ball</b></div>
+<div class="name"><b>Hoops in the Sun</b></div>
+<div class="name"><b>Glen</b></div>
+<div class="name"><b>Entertainer's Basketball Classic</b></div>
+<div class="name"><b>Kingdome</b></div>
+<div class="name"><b>Inwood</b></div>
+<div class="name"><b>Queensbridge</b></div>
+<div class="name"><b>Holcombe Rucker</b></div>
+<div class="name"><b>Watson</b></div>
+<div class="name"><b>Tri-State Classic</b></div>
+<div class="name"><b>True Ballers</b></div>
+<div class="name"><b>Battlegrounds</b></div>
+<div class="name"><b>Bronx Athletic League</b></div>
+<div class="name"><b>Dyckman</b></div>
+<div class="name"><b>Top of the Hill</b></div>
+
+<div class="roster-title">XII. Executive Leadership &amp; Booking</div>
+<div class="name"><b>Tom Silverman</b>Executive Leadership</div>
+<div class="name"><b>Tony Monty</b>Executive Leadership</div>
+<div class="name"><b>John Strazza</b>Executive Leadership</div>
+<div class="name"><b>Issy Sanchez</b>Executive Leadership</div>
+<div class="name"><b>Dante Ross</b>Executive Leadership</div>
+<div class="name"><b>Monica Lynch</b>Executive Leadership</div>
+<div class="name"><b>Russell Simmons</b>Executive Leadership</div>
+<div class="name"><b>Rick Rubin</b>Executive Leadership</div>
+<div class="name"><b>Andre Harrell</b>Executive Leadership</div>
+<div class="name"><b>Master P</b>Executive Leadership</div>
+<div class="name"><b>Jay Brown</b>Executive Leadership</div>
+<div class="name"><b>Jay-Z</b>Executive Leadership</div>
+<div class="name"><b>Monte &amp; Avery Lipman</b>Executive Leadership</div>
+<div class="name"><b>Sean Combs</b>Executive Leadership</div>
+<div class="name"><b>Kevin Liles</b>Executive Leadership</div>
+<div class="name"><b>Lyor Cohen</b>Executive Leadership</div>
+<div class="name"><b>Mark Skeete</b>Executive Leadership</div>
+<div class="name"><b>Kedar Massenburg</b>Executive Leadership</div>
+<div class="name"><b>Suge Knight</b>Executive Leadership</div>
+<div class="name"><b>Chris Lighty</b>Executive Leadership</div>
+<div class="name"><b>Bryan Turner</b>Executive Leadership</div>
+<div class="name"><b>Cara Vance</b>Executive Leadership</div>
+<div class="name"><b>Sylvia Robinson</b>Executive Leadership</div>
+<div class="name"><b>Eazy-E</b>Executive Leadership</div>
+<div class="name"><b>Dr. Dre</b>Executive Leadership</div>
+<div class="name"><b>J. Prince</b>Executive Leadership</div>
+<div class="name"><b>Clara Lewis</b>Booking Architect</div>
+
+<div class="roster-title">XIII. Talk Show &amp; Late-Night Architects</div>
+<div class="name"><b>David Letterman</b></div>
+<div class="name"><b>Arsenio Hall</b></div>
+<div class="name"><b>Jay Leno</b></div>
+<div class="name"><b>Don Cornelius</b></div>
+</div>
+
+---
+
+## THE LEGACY CONTINUES
+
+The 2027 Legacy Distinguished Honorees and Legacy Music &amp; Culture Honorees represent the many hands that helped build Hip Hop into a lasting cultural force. From the DJ booth to the recording studio, from radio and television to fashion, film, dance, sports, community, and the executive offices where careers and companies were built, each represents a piece of the larger story.
+
+Their contributions remind us that culture is not created by one person, one generation, or one discipline. It is built by people who recognize possibility, create opportunity, take risks, open doors, document history, and leave something behind for those who follow.
+
+The Legacy Culture Music Tribute Awards honors not only what they accomplished, but what they made possible—and what future generations can continue to build because they were here.

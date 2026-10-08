@@ -10,7 +10,7 @@ Whether you have a question, want to learn more about our programs, are interest
 <div class="card">
 <div class="sub">Mail</div>
 <h3>Legacy Culture Music Tribute Awards</h3>
-<p>[Mailing Address]<br>[City, State ZIP]</p>
+<p>108 West 39th Street<br>STE #1006<br>New York, NY 10018</p>
 </div>
 <div class="card">
 <div class="sub">Email</div>

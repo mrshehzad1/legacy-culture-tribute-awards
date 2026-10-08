@@ -151,7 +151,7 @@ The 2027 Legacy Music &amp; Culture Honorees recognize the architects, innovator
 
 <div class="roster-title">IV. Video TV Hosts</div>
 <div class="name"><b>Ralph McDaniels</b></div>
-<div class="name"><b>Debra Coco</b></div>
+<div class="name"><b>Deb Coco</b></div>
 <div class="name"><b>Fab 5 Freddy</b></div>
 <div class="name"><b>Leslie Segar</b></div>
 <div class="name"><b>Ed Lover</b></div>

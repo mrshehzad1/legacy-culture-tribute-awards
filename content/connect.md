@@ -15,7 +15,7 @@ Whether you have a question, want to learn more about our programs, are interest
 <div class="card">
 <div class="sub">Email</div>
 <h3>Write To Us</h3>
-<p>General Inquiries: <a href="mailto:Info@ChampionWorldwidevents.com">Info@ChampionWorldwidevents.com</a><br>Partnership &amp; Sponsorship: <a href="mailto:Info@ChampionWorldwidevents.com">Info@ChampionWorldwidevents.com</a><br>Volunteer &amp; Internship Inquiries: <a href="mailto:Info@ChampionWorldwidevents.com">Info@ChampionWorldwidevents.com</a></p>
+<p>General Inquiries: <a href="mailto:info@championworldwidevents.com">info@championworldwidevents.com</a><br>Partnership &amp; Sponsorship: <a href="mailto:info@championworldwidevents.com">info@championworldwidevents.com</a><br>Volunteer &amp; Internship Inquiries: <a href="mailto:info@championworldwidevents.com">info@championworldwidevents.com</a></p>
 
 <p>Legacy Culture &amp; Music Tribute Awards<br>108 West 39th Street, STE #1006<br>New York, NY 10018</p>
 </div>
@@ -52,10 +52,10 @@ Follow us, share our mission, and help us continue to recognize the people whose
 
 <div class="card gold">
 <div class="sub">Direct</div>
-<h3>Phone</h3>
-<p style="font-family:Playfair Display,serif;font-size:34px"><a href="tel:5044069030" style="text-decoration:none">(504) 406-9030</a></p>
+<h3>Contact</h3>
+<p style="font-family:Playfair Display,serif;font-size:34px"><a href="tel:3159161331" style="text-decoration:none">315-916-1331</a></p>
 <h3 class="mt-sm">Email</h3>
-<p><a href="mailto:Info@ChampionWorldwidevents.com">Info@ChampionWorldwidevents.com</a></p>
+<p><a href="mailto:info@championworldwidevents.com">info@championworldwidevents.com</a></p>
 <div class="btnrow" style="margin-top:18px">
 <a class="btn btn-dark" href="https://www.instagram.com/latmllc.us/">Instagram</a>
 <a class="btn btn-line" href="https://www.facebook.com/wix">Facebook</a>

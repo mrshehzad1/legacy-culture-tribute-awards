@@ -391,7 +391,7 @@ main > section > ul{margin:8px 0 22px;padding-left:22px}
 main > section > ul > li{margin:9px 0;position:relative}
 main > section > ul > li > strong{display:block;margin-bottom:2px;color:var(--champagne);font-family:var(--serif);font-size:17px;font-weight:600;letter-spacing:.01em}
 main > section > ul > li > strong + ul{padding-left:18px}
-main > section > ul > li > strong + ul > li{display:flex;align-items:baseline;gap:8px;margin:3px 0;font-family:var(--serif);font-size:15.5px;color:#3a2f27}
+main > section > ul > li > strong + ul > li{display:flex;align-items:baseline;gap:8px;margin:3px 0;font-family:var(--serif);font-size:15.5px;color:#3a2f27;word-break:normal;overflow-wrap:normal;white-space:normal}
 main > section > ul > li > ul > li > strong{color:var(--charcoal);font-size:15.5px;font-weight:600}
 main > section > ul > li ul > li::before{content:none}
 main ul > li{position:relative;padding-left:30px;margin-bottom:9px}

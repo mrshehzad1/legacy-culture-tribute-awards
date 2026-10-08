@@ -49,7 +49,7 @@ They did not simply participate in the culture. They helped shape what the cultu
   </li>
   <li><strong>Boxing Leadership</strong>
     <ul>
-      <li>Milton “Supreme” McCroix</li>
+      <li>Milton "Supreme" McCroix</li>
       <li>Mike Tyson</li>
       <li>Zab Judah</li>
     </ul>

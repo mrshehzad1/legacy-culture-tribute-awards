@@ -4,7 +4,7 @@
 <div class="stat"><b>2027</b><span>Inaugural Year</span></div>
 <div class="stat"><b>FOX</b><span>Theatre, Atlanta</span></div>
 <div class="stat"><b>4</b><span>Black Carpet Anchors</span></div>
-<div class="stat"><b>3</b><span>Legacy Games</span></div>
+<div class="stat"><b>3</b><span>Legacy Events</span></div>
 </div>
 
 ---
@@ -107,7 +107,7 @@ We honor those who came before us, celebrate those making an impact today, and i
 <div class="eyebrow">The 2027 Experience</div>
 <h2 style="margin-top:18px">ONE NIGHT. ONE CULTURE.<br>A LEGACY WORTH CELEBRATING.</h2>
 <p class="lead mt-sm" style="color:#CFC3A4">Join us for an evening celebrating the visionaries whose contributions helped shape Hip-Hop culture.</p>
-<div class="meta" style="margin-top:26px">June 24, 2027 &nbsp;•&nbsp; 8:00 PM Sharp &nbsp;•&nbsp; Fox Theatre &nbsp;•&nbsp; Atlanta, GA</div>
+<div class="meta" style="margin-top:26px">June 24, 2027 &nbsp;•&nbsp; Fox Theatre &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308<br>6 PM - Black Carpet Event &nbsp;•&nbsp; 8 PM - Tribute Awards</div>
 <div class="btnrow"><a class="btn btn-gold" href="tickets.html">Buy Tickets →</a></div>
 </div>
 </div>

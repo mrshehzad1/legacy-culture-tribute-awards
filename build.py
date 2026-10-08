@@ -55,6 +55,11 @@ IMAGES = {
 }
 
 # file -> (eyebrow, title_html, lede, hero_image)
+HERO_META = {
+ "index.html": 'June 24 &nbsp;•&nbsp; <span>Fox Theatre</span> &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308<br>6 PM - Black Carpet Event &nbsp;•&nbsp; 8 PM - Tribute Awards',
+}
+DEFAULT_HERO_META = 'June 24 &nbsp;•&nbsp; 8:00 PM Sharp &nbsp;•&nbsp; <span>Fox Theatre</span> &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308'
+
 HEROES = {
  "index.html":         ("The 2027 Legacy Culture &amp; Music Tribute Awards™",
                         'HONORING THE VISIONARIES<br><span class="foil">WHO HELPED SHAPE THE CULTURE OF HIP-HOP</span>',
@@ -208,6 +213,7 @@ def page(fname):
     with open(md_path, encoding="utf-8") as fh:
         body = render_md(fh.read())
     eyebrow, title, lede, img = HEROES[fname]
+    hero_meta = HERO_META.get(fname, DEFAULT_HERO_META)
     plain_title = re.sub("<[^>]+>", " ", title).strip()
     plain_lede = re.sub("<[^>]+>", " ", lede).strip()
     nav = nav_links(fname)
@@ -246,7 +252,7 @@ def page(fname):
   <div class="eyebrow">{eyebrow}</div>
   <h1>{title}</h1>
   <p class="lede">{lede}</p>
-  <div class="meta">June 24 &nbsp;•&nbsp; 8:00 PM Sharp &nbsp;•&nbsp; <span>Fox Theatre</span> &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308</div>
+  <div class="meta">{hero_meta}</div>
   <div class="btnrow">
     <a class="btn btn-gold" href="tickets.html">Buy Tickets</a>
     <a class="btn btn-ghost" href="vip.html">VIP Experiences</a>

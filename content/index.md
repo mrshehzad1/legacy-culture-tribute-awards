@@ -103,7 +103,7 @@ We honor those who came before us, celebrate those making an impact today, and i
 ---
 
 <div class="section dark" style="margin-top:0">
-<div class="wrap center">
+<div class="wrap center exp">
 <div class="eyebrow">The 2027 Experience</div>
 <h2 style="margin-top:18px">ONE NIGHT. ONE CULTURE.<br>A LEGACY WORTH CELEBRATING.</h2>
 <p class="lead mt-sm" style="color:#CFC3A4">Join us for an evening celebrating the visionaries whose contributions helped shape Hip-Hop culture.</p>

@@ -62,7 +62,7 @@ DEFAULT_HERO_META = 'June 24 &nbsp;•&nbsp; 8:00 PM Sharp &nbsp;•&nbsp; <span
 
 HEROES = {
  "index.html":         ("The 2027 Legacy Culture &amp; Music Tribute Awards™",
-                        'HONORING THE VISIONARIES<br><span class="foil">WHO HELPED SHAPE THE CULTURE OF <span class="hh">HIP-HOP</span></span>',
+                        'HONORING THE VISIONARIES<br><span class="foil">WHO HELPED SHAPE THE CULTURE OF<br class="m-br"> <span class="hh">HIP-HOP</span></span>',
                         "A tribute to the visionaries, pioneers, innovators, creators, and cultural architects whose contributions helped shape and expand Hip-Hop.",
                         "hero_main"),
  "vision.html":        ("Company Profile",

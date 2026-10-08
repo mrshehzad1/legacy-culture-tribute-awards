@@ -93,6 +93,16 @@ p,li,blockquote,.lead,.tier p,.tribute p,.card p{
   hyphens:manual;
 }
 .center{text-align:center}
+/* the home "2027 Experience" band: body copy justified, titles stay centered */
+.exp p{
+  text-align:justify;
+  -webkit-hyphens:auto;
+  -moz-hyphens:auto;
+  hyphens:auto;
+  -webkit-hyphenate-limit-before:2;
+  -webkit-hyphenate-limit-after:2;
+  hyphenate-limit-chars:5 2 2;
+}
 
 /* ---------- announcement bar ---------- */
 .topbar{
@@ -260,8 +270,15 @@ nav.main .more-panel a.active::before{
   background:linear-gradient(100deg,var(--champagne) 10%,#FFF3D4 38%,var(--gold) 62%,#F1DEAF 90%);
   -webkit-background-clip:text;background-clip:text;color:transparent;
 }
-/* keep HIP-HOP unbroken; on phones it drops to its own line */
-.hero h1 .hh{white-space:nowrap}
+/* HIP-HOP stays unbroken; own gradient so it paints even where the
+   parent's background-clip:text does not reach; on phones a hidden
+   <br class="m-br"> drops it onto its own line */
+.hero h1 .hh{
+  white-space:nowrap;
+  background:linear-gradient(100deg,var(--champagne) 10%,#FFF3D4 38%,var(--gold) 62%,#F1DEAF 90%);
+  -webkit-background-clip:text;background-clip:text;color:transparent;
+}
+.hero h1 .m-br{display:none}
 .hero .lede{
   max-width:780px;margin:22px auto 0;
   font-size:18.5px;line-height:1.85;color:#EDE3CC;font-style:italic;
@@ -656,7 +673,10 @@ footer.site .brand{margin-bottom:4px}
   .brand-mark{width:42px;height:42px;flex:0 0 42px;font-size:18px;box-shadow:inset 0 0 0 1px rgba(255,255,255,.55),0 0 0 2px var(--ivory),0 0 0 3px var(--gold)}
   .brand b{font-size:13px;letter-spacing:.08em;white-space:nowrap}
   .brand small{font-size:7.5px;letter-spacing:.24em;white-space:nowrap}
-  .hero h1 .hh{display:block}
+  .hero h1 .m-br{display:inline}
+  /* long unbreakable strings (email) inflate card min-content and push
+     single-column cards past the right edge — let them wrap */
+  .card a{overflow-wrap:anywhere;word-break:break-word}
 }
 
 /* ---------- print ---------- */

@@ -87,7 +87,7 @@ p,li,blockquote,.lead,.tier p,.tribute p,.card p{
   -webkit-hyphenate-limit-after:2;
   hyphenate-limit-chars:5 2 2;
 }
-.hero .lede,.head p,.center p,.imageband p,footer.site p,.topbar,.meta,.hint{
+.head p,.center p,.imageband p,footer.site p,.meta,.hint{
   text-align:center;
   -webkit-hyphens:manual;
   hyphens:manual;
@@ -105,6 +105,8 @@ p,li,blockquote,.lead,.tier p,.tribute p,.card p{
   text-align:center;
   padding:11px 20px;
 }
+.tb-row{display:block;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.tb-row+.tb-row{margin-top:3px;font-size:9.5px;letter-spacing:.22em}
 .topbar b{color:var(--white);font-weight:600}
 
 /* ---------- header ---------- */
@@ -131,6 +133,12 @@ header.site::after{
   display:grid;place-items:center;
   font-family:var(--display);font-weight:700;font-size:22px;color:var(--charcoal);
   box-shadow:inset 0 0 0 1px rgba(255,255,255,.55),0 0 0 3px var(--ivory),0 0 0 4px var(--gold);
+  overflow:hidden;
+}
+/* Real emblem (transparent PNG): contain it inside the medallion frame,
+   letting the emblem's own art show through the transparent areas. */
+.brand-mark img{
+  width:100%;height:100%;object-fit:contain;background:var(--gold);
 }
 .brand b{
   font-family:var(--display);font-size:16.5px;font-weight:700;
@@ -256,6 +264,17 @@ nav.main .more-panel a.active::before{
   max-width:780px;margin:22px auto 0;
   font-size:18.5px;line-height:1.85;color:#EDE3CC;font-style:italic;
 }
+.hero .lede{
+  text-align:justify;
+  -webkit-hyphens:auto;
+  -moz-hyphens:auto;
+  hyphens:auto;
+  -webkit-hyphenate-limit-before:2;
+  -webkit-hyphenate-limit-after:2;
+  hyphenate-limit-chars:5 2 2;
+  padding:0 14px;
+}
+.hero .lede{max-width:860px}
 .hero .meta{
   margin-top:30px;
   font-family:var(--ui);font-size:11px;letter-spacing:.3em;text-transform:uppercase;
@@ -613,7 +632,17 @@ footer.site .brand{margin-bottom:4px}
   .hero{padding:92px 18px 78px;min-height:64vh}
   .hero::after{inset:10px}
   .card{padding:30px 24px}
-  .topbar{letter-spacing:.18em;font-size:9.5px}
+  .hero .lede{
+    text-align:justify;
+    -webkit-hyphens:auto;
+    -moz-hyphens:auto;
+    hyphens:auto;
+    -webkit-hyphenate-limit-before:2;
+    -webkit-hyphenate-limit-after:2;
+    hyphenate-limit-chars:5 2 2;
+    max-width:100%;padding:0 14px;
+  }
+  .tb-row{white-space:normal}
   .brand{gap:10px}
   .brand-mark{width:42px;height:42px;flex:0 0 42px;font-size:18px;box-shadow:inset 0 0 0 1px rgba(255,255,255,.55),0 0 0 2px var(--ivory),0 0 0 3px var(--gold)}
   .brand b{font-size:13px;letter-spacing:.08em;white-space:nowrap}

@@ -99,7 +99,7 @@ Want more from your stream? Upgrade to Legacy Stream VIP for exclusive pre-show 
 <div class="section dark" style="margin-top:60px">
 <div class="wrap center">
 <div class="eyebrow">Event Details</div>
-<h2 style="margin-top:16px">JUNE 24, 2027 • 7:00 PM SHARP</h2>
+<h2 style="margin-top:16px">JUNE 24, 2027 • 8:00 PM SHARP</h2>
 <p class="lead mt-sm" style="color:#CFC3A4">Fox Theatre — 660 Peachtree St. NE, Atlanta, GA 30308</p>
 <div class="btnrow"><a class="btn btn-gold" href="connect.html">Buy Tickets</a><a class="btn btn-ghost" href="vip.html">VIP Experiences</a></div>
 </div>

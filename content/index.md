@@ -126,7 +126,7 @@ We honor those who came before us, celebrate those making an impact today, and i
 <div class="sub">Contact</div>
 <h3>Legacy Culture &amp; Music Tribute Awards™</h3>
 <p><strong>Honor the Visionaries.</strong><br><strong>Celebrate the Culture.</strong><br><strong>Preserve the Legacy.</strong></p>
-<p>Email: <a href="mailto:lcmta2027@gmail.com">lcmta2027@gmail.com</a><br>Phone: <a href="tel:5044069030">(504) 406-9030</a></p>
+<p>Email: <a href="mailto:Info@ChampionWorldwidevents.com">Info@ChampionWorldwidevents.com</a><br>108 West 39th Street, STE #1006<br>New York, NY 10018</p>
 <div class="btnrow" style="margin-top:20px"><a class="btn btn-line" href="connect.html">Connect With Us</a></div>
 </div>
 </div>

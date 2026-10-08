@@ -9,8 +9,8 @@ These images demonstrate the relationships, conversations, and growing support s
 - Photo Gallery Section (Visual Assets Placeholder)
 
 <div class="grid2 mt">
-<img class="resp" src="https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?q=80&w=1400&auto=format&fit=crop" alt="Live audience">
-<img class="resp" src="https://images.unsplash.com/photo-1501281668745-f7f57925c3b4?q=80&w=1400&auto=format&fit=crop" alt="Stage lights">
+<img class="resp" src="https://images.unsplash.com/photo-1492684223066-81342ee5ff30?q=80&w=1400&auto=format&fit=crop" alt="Red carpet arrival with photographers">
+<img class="resp" src="https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?q=80&w=1400&auto=format&fit=crop" alt="Media desk and live event coverage">
 </div>
 
 ---

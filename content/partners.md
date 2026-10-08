@@ -145,6 +145,24 @@ Our partners help create a platform where accomplishments are acknowledged, sacr
 - Serve the Community.
 - Develop the Next Generation.
 
-<div class="shout">Honor the Legacy. Celebrate the Culture. Inspire the Future.</div>
+---
 
-<div class="btnrow"><a class="btn btn-gold" href="connect.html">Become a Legacy Partner</a><a class="btn btn-dark" href="donate.html">Donate</a></div>
+### Partner Application Brief
+
+Tell us how you would like to build with Legacy Culture. Our partnerships team responds within two business days.
+
+<form class="box" onsubmit="event.preventDefault();this.querySelector('.done').style.display='block';">
+<h3>Legacy Partners — Brief</h3>
+<div class="hint">Sponsorships, partnerships, volunteerism, internships, or community collaboration.</div>
+<label>Full Name</label><input type="text" placeholder="Your full name" required>
+<label>Organization / Company</label><input type="text" placeholder="Business, brand, or institution">
+<label>Email</label><input type="email" placeholder="you@organization.com" required>
+<label>Phone</label><input type="tel" placeholder="(000) 000-0000">
+<label>Type of Partnership</label>
+<select><option>Corporate / Strategic Partnership</option><option>Event Sponsorship</option><option>Media / Promotional Partnership</option><option>Community Partnership</option><option>Volunteer Program</option><option>Internship Program</option><option>Philanthropic / In-kind Support</option><option>Other</option></select>
+<label>Message</label><textarea rows="5" placeholder="Share your goals, resources, or the way you would like to partner with Legacy Culture"></textarea>
+<button class="send" type="submit">Send Brief</button>
+<p class="done" style="display:none;margin-top:16px;font-family:Inter,sans-serif;color:#A9853F">Thank you. Your brief has been received — our partnerships team will respond within two business days.</p>
+</form>
+
+<div class="btnrow"><a class="btn btn-gold" href="donate.html">Donate</a><a class="btn btn-dark" href="connect.html">Connect With Us</a></div>

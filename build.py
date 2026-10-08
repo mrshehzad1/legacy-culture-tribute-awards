@@ -10,13 +10,18 @@ import os, re
 ROOT = os.path.dirname(os.path.abspath(__file__))
 CONTENT = os.path.join(ROOT, "content")
 
+# Per-page assets (paths served relative to the page itself).
+PATHS = {
+    "logo":   "logo.png",
+    "icon":   "favicon.png",
+}
+
 NAV = [
     ("Home",                   "index.html"),
     ("The Vision Behind",      "vision.html"),
     ("Our Legacy Of Hip-Hop",  "legacy-hiphop.html"),
     ("Distinguished Tributes", "tributes.html"),
     ("Legacy 2027 Honorees",   "honorees.html"),
-    ("Legacy Ambassadors",     "ambassadors.html"),
     ("Black Carpet Exclusives","black-carpet.html"),
     ("Legacy Games",           "games.html"),
     ("Press Highlights",       "press.html"),
@@ -71,10 +76,6 @@ HEROES = {
                         'LEGACY 2027<br><span class="foil">HONOREES</span>',
                         "The architects, innovators, executives, entrepreneurs, media pioneers and cultural institutions who helped build Hip Hop.",
                         "hero_gold"),
- "ambassadors.html":   ("Appointed by the Executive Council",
-                        'LEGACY<br><span class="foil">AMBASSADORS</span>',
-                        "Carrying the Legacy. Connecting Generations. Promoting the Culture.",
-                        "hero_dance"),
  "black-carpet.html":  ("The 1-Hour Pre-Show",
                         'THE LEGACY BLACK<br><span class="foil">CARPET EXCLUSIVES</span>',
                         "Four Star Anchors. Four perspectives. One black carpet.",
@@ -217,7 +218,7 @@ def page(fname):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{plain_title} | Legacy Culture &amp; Music Tribute Awards</title>
 <meta name="description" content="{plain_lede[:150]}">
-<link rel="icon" href="{FAVICON}">
+<link rel="icon" type="image/png" href="{PATHS['icon']}">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,500;0,600;0,700;1,500&family=Lora:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
@@ -225,12 +226,15 @@ def page(fname):
 </head>
 <body>
 
-<div class="topbar">June 24, 2027 &nbsp;•&nbsp; <b>7:00 PM Sharp</b> &nbsp;•&nbsp; Fox Theatre &nbsp;•&nbsp; Atlanta, GA</div>
+<div class="topbar">
+  <span class="tb-row">June 24, 2027 &nbsp;•&nbsp; <b>8:00 PM Sharp</b> &nbsp;•&nbsp; Fox Theatre &nbsp;•&nbsp; Atlanta, GA</span>
+  <span class="tb-row">Info@ChampionWorldwidevents.com &nbsp;•&nbsp; 108 West 39th Street, STE #1006, New York, NY 10018</span>
+</div>
 
 <header class="site">
   <div class="navwrap">
     <a class="brand" href="index.html">
-      <div class="brand-mark">L</div>
+      <div class="brand-mark"><img src="{PATHS['logo']}" alt="Legacy Culture logo"></div>
       <div><b>Legacy Culture</b><small>Music Tribute Awards</small></div>
     </a>
     <button class="menu-btn" onclick="document.querySelector('nav.main').classList.toggle('open')">Menu</button>
@@ -242,7 +246,7 @@ def page(fname):
   <div class="eyebrow">{eyebrow}</div>
   <h1>{title}</h1>
   <p class="lede">{lede}</p>
-  <div class="meta">June 24 &nbsp;•&nbsp; 7:00 PM Sharp &nbsp;•&nbsp; <span>Fox Theatre</span> &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308</div>
+  <div class="meta">June 24 &nbsp;•&nbsp; 8:00 PM Sharp &nbsp;•&nbsp; <span>Fox Theatre</span> &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308</div>
   <div class="btnrow">
     <a class="btn btn-gold" href="tickets.html">Buy Tickets</a>
     <a class="btn btn-ghost" href="vip.html">VIP Experiences</a>
@@ -270,11 +274,13 @@ def page(fname):
   <div class="foot-top">
     <div>
       <a class="brand" href="index.html" style="min-width:0">
-        <div class="brand-mark">L</div>
+        <div class="brand-mark"><img src="{PATHS['logo']}" alt="Legacy Culture logo"></div>
         <div><b>Legacy Culture</b><small>Music Tribute Awards</small></div>
       </a>
       <p style="margin-top:18px">Honoring the visionaries, pioneers, innovators, creators and cultural architects of Hip-Hop.<br><br>
-      Email: <a href="mailto:lcmta2027@gmail.com" style="display:inline;padding:0">lcmta2027@gmail.com</a><br>
+      Email: <a href="mailto:Info@ChampionWorldwidevents.com" style="display:inline;padding:0">Info@ChampionWorldwidevents.com</a><br>
+      108 West 39th Street, STE #1006<br>
+      New York, NY 10018<br>
       Phone: <a href="tel:5044069030" style="display:inline;padding:0">(504) 406-9030</a></p>
       <p style="margin-top:14px"><a href="https://www.instagram.com/latmllc.us/" style="display:inline-block;margin-right:18px;padding:0">Instagram</a><a href="#" style="display:inline;padding:0">Facebook</a></p>
     </div>

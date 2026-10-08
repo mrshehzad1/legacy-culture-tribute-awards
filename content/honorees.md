@@ -6,16 +6,55 @@ They did not simply participate in the culture. They helped shape what the cultu
 
 ### DISTINGUISHED AWARDS
 
-- **Legacy Leadership &amp; Impact Award:** Ms. Sylvia Rhone
-- **Legacy Cultural Expansion Award:** Mr. Benny Medina
-- **Legacy Pioneer &amp; Hip Hop Visionary Award:** Mr. Magic
-- **Legacy Industry Visionary &amp; Cultural Preservation Award:** Al Pizarro
-- **Legacy International DJ Visionary &amp; Cultural Expansion Award:** Tony Prince
-- **Legacy Leadership &amp; Community Impact Award:** Rod Strickland
-- **Legacy Sports Innovator Award:** AND1
-- **Legacy Cultural Impact Award:** Michael Bivens • Jay-Z • Fat Joe
-- **Legacy Boxing Visionary and Champions Award:** Milton "Supreme" McCroix
-- **Legacy Boxing Impact Trailblazers:** Mike Tyson • Zab Judah
+<ul>
+  <li><strong>Entertainment &amp; Music Leaders</strong>
+    <ul>
+      <li>Mr. Jimmy Iovine</li>
+      <li>Ms. Sylvia Rhone</li>
+      <li>Mr. Benny Medina</li>
+      <li>Mr. Magic</li>
+      <li>Mr. Al Pizarro</li>
+      <li>Mr. Tony Prince</li>
+    </ul>
+  </li>
+  <li><strong>Entertainment, Music &amp; Promotional Leadership</strong>
+    <ul>
+      <li>Learnard Rowe</li>
+      <li>Lee King</li>
+      <li>Jesse Boseman</li>
+      <li>Fred Jones Jr.</li>
+      <li>Bernard Bailey</li>
+    </ul>
+  </li>
+  <li><strong>Corporate Leaders — NBA &amp; Players Association</strong>
+    <ul>
+      <li>Mark A. Tatum</li>
+      <li>Leah Wilcox</li>
+      <li>Chrysa Chin</li>
+    </ul>
+  </li>
+  <li><strong>NBA Professional Athletes</strong>
+    <ul>
+      <li>Rod Strickland</li>
+      <li>Sam Worthen</li>
+    </ul>
+  </li>
+  <li><strong>Community Leadership</strong>
+    <ul>
+      <li>And1</li>
+      <li>Michael Bivins</li>
+      <li>Jay-Z</li>
+      <li>Fat Joe</li>
+    </ul>
+  </li>
+  <li><strong>Boxing Leadership</strong>
+    <ul>
+      <li>Milton “Supreme” McCroix</li>
+      <li>Mike Tyson</li>
+      <li>Zab Judah</li>
+    </ul>
+  </li>
+</ul>
 
 ---
 

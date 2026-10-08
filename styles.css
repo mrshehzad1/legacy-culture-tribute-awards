@@ -386,14 +386,21 @@ main hr{
   border:0;height:1px;margin:48px auto;width:140px;
   background:linear-gradient(90deg,transparent,var(--gold),transparent);
 }
-main ul{list-style:none;margin:8px 0 22px}
+main ul{list-style:none;padding-left:0;margin:8px 0 22px}
+main > section > ul{margin:8px 0 22px;padding-left:22px}
+main > section > ul > li{margin:9px 0;position:relative}
+main > section > ul > li > strong{display:block;margin-bottom:2px;color:var(--champagne);font-family:var(--serif);font-size:17px;font-weight:600;letter-spacing:.01em}
+main > section > ul > li > strong + ul{padding-left:18px}
+main > section > ul > li > strong + ul > li{display:flex;align-items:baseline;gap:8px;margin:3px 0;font-family:var(--serif);font-size:15.5px;color:#3a2f27}
+main > section > ul > li > ul > li > strong{color:var(--charcoal);font-size:15.5px;font-weight:600}
+main > section > ul > li ul > li::before{content:none}
 main ul > li{position:relative;padding-left:30px;margin-bottom:9px}
 main ul > li::before{
   content:"";position:absolute;left:4px;top:.72em;
   width:7px;height:7px;transform:rotate(45deg);
   background:var(--gold);
 }
-main ol{padding-left:30px;margin:8px 0 22px}
+main  ul {padding-left:30px;margin:8px 0 22px}
 main ol > li{margin-bottom:9px}
 main ol > li::marker{color:var(--gold-deep);font-family:var(--ui);font-weight:600}
 main h2{margin:54px auto 20px}

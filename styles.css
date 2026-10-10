@@ -738,6 +738,12 @@ footer.site .brand{margin-bottom:4px}
   font-size:14px;
   color:rgba(255,255,255,.92);
 }
+/* Global "strong{color:var(--charcoal)}" would paint the bolded text
+   near-black on the dark hero; force the gold/white palette here. */
+.hero-philosophy p strong,
+.hero-philosophy p b{color:rgba(255,255,255,.95)}
+.hero-philosophy strong,
+.hero-philosophy b{color:#C6A264}
 .hero-philosophy p:last-child{margin-bottom:0}
 
 /* Keep the hero readable on small phones: statement collapses tighter */

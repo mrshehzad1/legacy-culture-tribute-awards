@@ -688,3 +688,60 @@ footer.site .brand{margin-bottom:4px}
 
 
 
+
+/* ----------------------------------------------------------------
+   Recognition Philosophy statement block (vision / honorees /
+   legacy-hiphop / tributes pages). Fully bolded statement.
+   ---------------------------------------------------------------- */
+.philosophy{
+  background:#F4EEE2;
+  border:1px solid #D9C49A;
+  border-radius:10px;
+  padding:38px 34px;
+  margin-bottom:26px;
+}
+.philosophy h2{
+  color:#8A6A28;
+  font-size:clamp(21px,2.4vw,27px);
+  letter-spacing:.06em;
+  margin:0 0 20px;
+}
+.philosophy p{
+  font-weight:700;
+  line-height:1.85;
+  margin:0 0 16px;
+}
+.philosophy p:last-child{margin-bottom:0}
+
+/* Home hero variant of the Recognition Philosophy statement
+   (renders inside the dark hero, under the lede paragraph). */
+.hero-philosophy{
+  max-width:860px;
+  margin:26px auto 0;
+  padding:24px 26px;
+  background:rgba(0,0,0,.35);
+  border:1px solid rgba(198,162,100,.45);
+  border-radius:10px;
+  backdrop-filter:blur(2px);
+}
+.hero-philosophy strong{display:block;font-weight:700}
+.hero-philosophy > strong{
+  color:#C6A264;
+  letter-spacing:.08em;
+  font-size:19px;
+  margin-bottom:14px;
+}
+.hero-philosophy p{
+  font-weight:700;
+  line-height:1.75;
+  margin:0 0 12px;
+  font-size:14px;
+  color:rgba(255,255,255,.92);
+}
+.hero-philosophy p:last-child{margin-bottom:0}
+
+/* Keep the hero readable on small phones: statement collapses tighter */
+@media (max-width:560px){
+  .hero-philosophy{padding:18px 16px;margin-top:20px}
+  .hero-philosophy p{font-size:13px;line-height:1.65;margin-bottom:10px}
+}

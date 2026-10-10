@@ -55,10 +55,40 @@ IMAGES = {
 }
 
 # file -> (eyebrow, title_html, lede, hero_image)
+PHILOSOPHY = '''<div class="philosophy mt">
+<h2 style="margin-top:0">OUR RECOGNITION PHILOSOPHY</h2>
+<p><strong>The Legacy Culture &amp; Music Tribute Awards celebrates the collective contributions of artists, DJs, producers, executives, entrepreneurs, cultural pioneers, organizations, and industry professionals whose work has helped shape music, entertainment, and culture across generations.</strong></p>
+<p><strong>Our group recognitions honor the shared achievements, creative innovation, historical influence, and collective efforts that have helped build and advance the music industry. We believe preserving music history means acknowledging the individuals and institutions whose contributions helped shape the sounds, movements, and cultural experiences that continue to influence the world.</strong></p>
+<p><strong>Our recognitions celebrate specific professional achievements and cultural contributions. They do not constitute an endorsement of every aspect of an honoree's personal conduct or history.</strong></p>
+<p><strong>We remain committed to preserving cultural history, recognizing meaningful contributions, and approaching our selections with integrity, thoughtful consideration, and respect for the communities our work represents.</strong></p>
+<p><strong>Our mission is to honor the contributions that shaped the culture, preserve the history that informs it, and recognize the legacy that continues to inspire future generations.</strong></p>
+</div>'''
+
+# Pages that carry the recognition-philosophy statement at the top of the
+# content area (build.py prepends it before the page's own first heading).
 HERO_META = {
  "index.html": 'June 24 &nbsp;•&nbsp; <span>Fox Theatre</span> &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308<br>6 PM - Black Carpet Event &nbsp;•&nbsp; 8 PM - Tribute Awards',
 }
 DEFAULT_HERO_META = 'June 24 &nbsp;•&nbsp; 8:00 PM Sharp &nbsp;•&nbsp; <span>Fox Theatre</span> &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308'
+
+PHILOSOPHY_PAGES = {
+ "vision.html",        # 1. above "Our Vision"
+ "honorees.html",      # 2. above "Distinguished Awards"
+ "legacy-hiphop.html", # 3. above "A Culture Built by Many"
+ "tributes.html",      # 4. above "Seeing What Was Not Yet Seen"
+}
+
+# Home hero: philosophy block rendered AFTER the hero lede paragraph.
+HERO_EXTRA = {
+ "index.html": '''<div class="hero-philosophy">
+  <strong>OUR RECOGNITION PHILOSOPHY</strong>
+  <p><strong>The Legacy Culture &amp; Music Tribute Awards celebrates the collective contributions of artists, DJs, producers, executives, entrepreneurs, cultural pioneers, organizations, and industry professionals whose work has helped shape music, entertainment, and culture across generations.</strong></p>
+  <p><strong>Our group recognitions honor the shared achievements, creative innovation, historical influence, and collective efforts that have helped build and advance the music industry. We believe preserving music history means acknowledging the individuals and institutions whose contributions helped shape the sounds, movements, and cultural experiences that continue to influence the world.</strong></p>
+  <p><strong>Our recognitions celebrate specific professional achievements and cultural contributions. They do not constitute an endorsement of every aspect of an honoree's personal conduct or history.</strong></p>
+  <p><strong>We remain committed to preserving cultural history, recognizing meaningful contributions, and approaching our selections with integrity, thoughtful consideration, and respect for the communities our work represents.</strong></p>
+  <p><strong>Our mission is to honor the contributions that shaped the culture, preserve the history that informs it, and recognize the legacy that continues to inspire future generations.</strong></p>
+</div>''',
+}
 
 HEROES = {
  "index.html":         ("The 2027 Legacy Culture &amp; Music Tribute Awards™",
@@ -212,7 +242,10 @@ def page(fname):
     md_path = os.path.join(CONTENT, fname.replace(".html", ".md"))
     with open(md_path, encoding="utf-8") as fh:
         body = render_md(fh.read())
+    body_extra = PHILOSOPHY if fname in PHILOSOPHY_PAGES else ""
+    body = f"{body_extra}\n{body}" if body_extra else body
     eyebrow, title, lede, img = HEROES[fname]
+    hero_extra = HERO_EXTRA.get(fname, "")
     hero_meta = HERO_META.get(fname, DEFAULT_HERO_META)
     plain_title = re.sub("<[^>]+>", " ", title).strip()
     plain_lede = re.sub("<[^>]+>", " ", lede).strip()
@@ -252,6 +285,7 @@ def page(fname):
   <div class="eyebrow">{eyebrow}</div>
   <h1>{title}</h1>
   <p class="lede">{lede}</p>
+  {hero_extra}
   <div class="meta">{hero_meta}</div>
   <div class="btnrow">
     <a class="btn btn-gold" href="tickets.html">Buy Tickets</a>

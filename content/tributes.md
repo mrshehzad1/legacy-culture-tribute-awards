@@ -572,4 +572,3 @@ And they helped the culture move forward.
 <p>That is the Distinguished Tribute.</p>
 </div>
 
-**Honor the Vision. Celebrate the Impact. Recognize the 4. Preserve the Legacy.**

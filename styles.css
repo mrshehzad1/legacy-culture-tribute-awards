@@ -811,3 +811,13 @@ footer.site .foot-cta .btn-ghost:hover{
    sentence its own line with breathing room between them. */
 .shout p{margin:0 0 .7em}
 .shout p:last-child{margin-bottom:0}
+
+/* Footer motto: the three sentences sit on separate lines on phones
+   but flow together as one sentence on larger screens. */
+.foot-cta-inner .motto span{display:inline}
+.motto-s2,.motto-s3{display:inline}
+
+@media (max-width:560px){
+  .foot-cta-inner .motto span{display:block}
+  .foot-cta-inner .motto span+span{margin-top:6px}
+}

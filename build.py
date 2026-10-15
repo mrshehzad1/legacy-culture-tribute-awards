@@ -121,7 +121,7 @@ HEROES = {
                         "A basketball double header where Hip Hop, R&amp;B, entertainment and culture meet for an unforgettable day.",
                         "hero_sport"),
  "press.html":         ("Press Highlights",
-                        'PRESS<br><span class="foil">HIGHLIGHTS</span>',
+                        'LEGACY EXECUTIVE COUNCIL<br><span class="foil">IN THE COMMUNITY</span>',
                         "Moments of connection and support — and a media inquiry desk for interviews, credentials and coverage.",
                         "hero_media"),
  "legacy-executive-council.html": ("The Council",

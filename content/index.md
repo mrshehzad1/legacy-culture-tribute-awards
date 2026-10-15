@@ -83,20 +83,20 @@ We honor those who came before us, celebrate those making an impact today, and i
 </div>
 <div class="card gold">
 <div class="sub">The Culture</div>
-<h3>One Culture. Many Contributions.</h3>
+<h3>One Culture.<br class="m-br"> Many Contributions.</h3>
 <p>Hip-Hop was shaped through many forms of creative expression and countless skill sets.</p>
 <p>Music. Dance. Art. Media. Fashion. Business. Innovation.</p>
 <p>Every discipline contributed to the evolution of the culture.</p>
 <p>The Legacy Awards recognizes the visionaries whose work made a meaningful impact on Hip-Hop and helped define what it would become.</p>
-<div class="btnrow" style="margin-top:18px"><a class="btn btn-line" href="legacy-hiphop.html">Explore the Culture →</a></div>
+<div class="btnrow" style="margin-top:18px"><a class="btn btn-line" href="legacy-hiphop.html">Explore Now</a></div>
 </div>
 <div class="card">
 <div class="sub">The Legacy</div>
-<h3>What They Created Lives On.</h3>
+<h3 class="oneline">What They Created Lives On.</h3>
 <p>The legacy of Hip-Hop lives through the sounds, movements, ideas, styles, stories, businesses, images, and opportunities created by those who came before us.</p>
 <p>We honor the visionaries who helped build that foundation.</p>
 <p>We celebrate their contributions. And we preserve their stories for the generations that follow.</p>
-<div class="btnrow" style="margin-top:18px"><a class="btn btn-line" href="tributes.html">Discover the Legacy</a></div>
+<div class="btnrow" style="margin-top:18px"><a class="btn btn-line" href="tributes.html"><strong>Discover the Legacy</strong></a></div>
 </div>
 </div>
 
@@ -105,7 +105,7 @@ We honor those who came before us, celebrate those making an impact today, and i
 <div class="section dark" style="margin-top:0">
 <div class="wrap center exp">
 <div class="eyebrow">The 2027 Experience</div>
-<h2 style="margin-top:18px">ONE NIGHT. ONE CULTURE.<br>A LEGACY WORTH CELEBRATING.</h2>
+<h2 style="margin-top:18px">ONE NIGHT.<br class="m-br"> ONE CULTURE.<br>A LEGACY WORTH<br class="m-br"> CELEBRATING.</h2>
 <p class="lead mt-sm" style="color:#CFC3A4">Join us for an evening celebrating the visionaries whose contributions helped shape Hip-Hop culture.</p>
 <div class="meta" style="margin-top:26px">June 24, 2027 &nbsp;•&nbsp; Fox Theatre &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308<br>6 PM - Black Carpet Event &nbsp;•&nbsp; 8 PM - Tribute Awards</div>
 <div class="btnrow"><a class="btn btn-gold" href="tickets.html">Buy Tickets →</a></div>
@@ -120,14 +120,14 @@ We honor those who came before us, celebrate those making an impact today, and i
 <div class="sub">Partner With Us</div>
 <h3>Help Us Honor, Celebrate, and Preserve the Culture.</h3>
 <p>Corporate and strategic partnerships, sponsorships, media and promotional partnerships, community partnerships, philanthropic support, and educational and cultural collaborations all move the mission forward.</p>
-<div class="btnrow" style="margin-top:20px"><a class="btn btn-dark" href="partners.html">Become a Partner</a></div>
+<div class="btnrow" style="margin-top:20px"><a class="btn btn-dark" href="partners.html">Partner With Us</a></div>
 </div>
 <div class="card">
-<div class="sub">Contact</div>
+<div class="sub contact-label">Contact</div>
 <h3>Legacy Culture &amp; Music Tribute Awards™</h3>
 <p><strong>Honor the Visionaries.</strong><br><strong>Celebrate the Culture.</strong><br><strong>Preserve the Legacy.</strong></p>
-<p>Email: <a href="mailto:info@championworldwidevents.com">info@championworldwidevents.com</a><br>108 West 39th Street, STE #1006<br>New York, NY 10018</p>
-<div class="btnrow" style="margin-top:20px"><a class="btn btn-line" href="connect.html">Connect With Us</a></div>
+<p class="contact-lines"><span class="contact-address">108 West 39th Street, STE #1006<br>New York, NY 10018</span><span class="contact-email">Email: <a href="mailto:info@championworldwideevents.com">info@championworldwideevents.com</a></span></p>
+<div class="btnrow" style="margin-top:20px"><a class="btn btn-line" href="connect.html"><strong>Connect</strong></a></div>
 </div>
 </div>
 </div>

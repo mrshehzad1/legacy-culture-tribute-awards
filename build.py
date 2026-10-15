@@ -27,6 +27,7 @@ NAV = [
     ("Press Highlights",       "press.html"),
     ("Legacy VIP Experiences", "vip.html"),
     ("Legacy Partners",        "partners.html"),
+    ("Legacy Executive Council", "legacy-executive-council.html"),
     ("Connect With Us",        "connect.html"),
     ("Donate",                 "donate.html"),
     ("Legacy Event Tickets",   "tickets.html"),
@@ -119,10 +120,14 @@ HEROES = {
                         'LEGACY<br><span class="foil">GAMES</span>',
                         "A basketball triple header where Hip Hop, R&amp;B, entertainment and culture meet for an unforgettable day.",
                         "hero_sport"),
- "press.html":         ("Press &amp; Media",
-                        'LEGACY EXECUTIVE COUNCIL<br><span class="foil">IN THE COMMUNITY</span>',
+ "press.html":         ("Press Highlights",
+                        'PRESS<br><span class="foil">HIGHLIGHTS</span>',
                         "Moments of connection and support — and a media inquiry desk for interviews, credentials and coverage.",
                         "hero_media"),
+ "legacy-executive-council.html": ("The Council",
+                        'LEGACY EXECUTIVE<br><span class="foil">COUNCIL</span>',
+                        "The Council entrusted with identifying and selecting individuals, groups, and organizations whose contributions made a meaningful impact on music, culture, and community.",
+                        "hero_hand"),
  "vip.html":           ("Premium Access &amp; Hospitality",
                         'LEGACY VIP<br><span class="foil">EXPERIENCES</span>',
                         "One legacy. Four ways to experience it.",
@@ -318,9 +323,9 @@ def page(fname):
         <div><b>Legacy Culture</b><small>Music Tribute Awards</small></div>
       </a>
       <p style="margin-top:18px">Honoring the visionaries, pioneers, innovators, creators and cultural architects of Hip-Hop.<br><br>
-      Email: <a href="mailto:info@championworldwidevents.com" style="display:inline;padding:0">info@championworldwidevents.com</a><br>
       108 West 39th Street, STE #1006<br>
       New York, NY 10018<br>
+      Email: <a href="mailto:info@championworldwidevents.com" style="display:inline;padding:0">info@championworldwidevents.com</a><br>
       Contact: <a href="tel:3159161331" style="display:inline;padding:0">315-916-1331</a></p>
       <p style="margin-top:14px"><a href="https://www.instagram.com/latmllc.us/" style="display:inline-block;margin-right:18px;padding:0">Instagram</a><a href="#" style="display:inline;padding:0">Facebook</a></p>
     </div>

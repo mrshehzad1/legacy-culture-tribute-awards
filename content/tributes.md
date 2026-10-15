@@ -315,6 +315,15 @@ They helped shape what the culture could become.
 ### BOXING LEADERSHIP
 
 <div class="tribute">
+<h3>FLOYD MAYWEATHER SR.</h3>
+<p>Floyd Mayweather Sr. is a respected boxing figure whose influence extends beyond the ring into the worlds of hip-hop, entertainment, and popular culture. A former professional boxer, master trainer, and mentor, he embodies the discipline, confidence, resilience, and determination celebrated throughout hip-hop culture.</p>
+<p>As both a father and trainer, Floyd Mayweather Sr. played an important role in shaping the boxing journey of his son, Floyd Mayweather Jr., one of the sport's most accomplished champions. His knowledge, technical expertise, and dedication helped develop the defensive skills and ring intelligence that became hallmarks of his son's career.</p>
+<p>His legacy connects sports with hip-hop's celebration of ambition, individuality, self-expression, and overcoming adversity. In a culture where influence extends beyond talent to include perseverance, personal identity, and generational impact, Floyd Mayweather Sr.'s journey reflects the value of hard work, mentorship, and building a lasting name.</p>
+<p>The Legacy Culture &amp; Music Awards proudly recognizes Floyd Mayweather Sr. for his contributions to boxing, his influence as a trainer, and his place in the cultural conversation connecting sports, hip-hop, and entertainment.</p>
+<p>His story reminds us that a true legacy is measured not only by personal achievements, but also by the knowledge shared, the lives influenced, and the foundation built for future generations.</p>
+</div>
+
+<div class="tribute">
 <h3>MILTON "SUPREME" MCCROIX</h3>
 <p>Milton "Supreme" McCroix represents an extraordinary legacy of boxing leadership, mentorship, and championship development. Through his dedication to the sport and to developing fighters, McCroix has helped produce more than 59 Golden Glove champions and world champions, creating a remarkable legacy of excellence inside the ring. His impact extends beyond individual victories, reflecting a commitment to teaching discipline, developing talent, building confidence, and preparing athletes to compete at the highest levels of boxing. His work demonstrates that true boxing leadership is measured not only by championships, but by the champions one helps create. For his extraordinary contribution to boxing, his mentorship of generations of fighters, and his legacy of championship development, Milton "Supreme" McCroix is truly Distinguished.</p>
 </div>
@@ -554,6 +563,13 @@ They expanded it.
 
 And they helped the culture move forward.
 
-<div class="shout">They saw beyond sight. They created beyond expectation. They expanded beyond limitation. They inspired beyond their own generation. That is what makes them distinguished. That is the Distinguished Tribute.</div>
+<div class="shout">
+<p>They saw beyond sight.</p>
+<p>They created beyond expectation.</p>
+<p>They expanded beyond limitation.</p>
+<p>They inspired beyond their own generation.</p>
+<p>That is what makes them distinguished.</p>
+<p>That is the Distinguished Tribute.</p>
+</div>
 
 **Honor the Vision. Celebrate the Impact. Recognize the 4. Preserve the Legacy.**

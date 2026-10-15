@@ -330,6 +330,11 @@ nav.main .more-panel a.active::before{
 .btn-ghost:hover{background:rgba(232,213,161,.14)}
 
 /* ---------- layout ---------- */
+/* A .wrap nested inside the page's outer .wrap would double the side
+   gutters and squeeze the cards; drop the inner horizontal padding
+   so cards get the full column width. */
+.wrap .wrap{padding-left:0;padding-right:0}
+
 .wrap{max-width:1200px;margin:0 auto;padding:92px 28px}
 .wrap.narrow{max-width:840px}
 main > .wrap{padding-top:88px;padding-bottom:88px}
@@ -370,7 +375,7 @@ main p:last-child{margin-bottom:0}
   background:var(--white);
   border:1px solid var(--line);
   border-top:3px solid var(--gold);
-  padding:38px 36px;
+  padding:30px 26px;
   box-shadow:var(--shadow);
 }
 .card.soft{border-top-width:1px;border-top-color:var(--line-strong)}
@@ -657,7 +662,7 @@ footer.site .brand{margin-bottom:4px}
   body{font-size:16.5px}
   .hero{padding:92px 18px 78px;min-height:64vh}
   .hero::after{inset:10px}
-  .card{padding:30px 24px}
+  .card{padding:22px 16px}
   .hero .lede{
     text-align:justify;
     -webkit-hyphens:auto;
@@ -751,3 +756,58 @@ footer.site .brand{margin-bottom:4px}
   .hero-philosophy{padding:18px 16px;margin-top:20px}
   .hero-philosophy p{font-size:13px;line-height:1.65;margin-bottom:10px}
 }
+
+/* ----------------------------------------------------------------
+   Mobile-only line breaks and single-line headings.
+   <br class="m-br"> is hidden on larger screens and active on
+   phones, so headings can break by word group on mobile only.
+   ---------------------------------------------------------------- */
+.m-br{display:none}
+
+/* Home contact card: the address sits above the email on phones,
+   and its "Contact" label reads a little larger. */
+.contact-lines{display:flex;flex-direction:column;gap:6px}
+.contact-email{order:1}
+.contact-address{order:2}
+
+@media (max-width:560px){
+  .m-br{display:inline}
+  /* short card headings that must stay on one line shrink to fit */
+  .oneline{white-space:nowrap;font-size:min(4.7vw,21px)}
+  .card .contact-label{font-size:14px;letter-spacing:.2em}
+  .contact-address{order:1}
+  .contact-email{order:2}
+}
+
+/* ----------------------------------------------------------------
+   Footer call-to-action buttons ("Buy Tickets" + "Partner With Us").
+   The generic `footer.site a` rule was overriding the buttons' own
+   colour, padding and size, leaving the gold button gold-on-gold.
+   Restore real button styling on every page. */
+footer.site .foot-cta .btn{
+  display:inline-block;padding:16px 34px;border-radius:2px;
+  font-family:var(--ui);font-size:11px;font-weight:600;
+  letter-spacing:.26em;text-transform:uppercase;
+  transition:transform .22s,filter .22s,background .22s,color .22s;
+}
+footer.site .foot-cta .btn-gold{
+  color:var(--charcoal);border:1px solid var(--gold-deep);
+  box-shadow:0 12px 26px -16px rgba(169,133,63,.9);
+}
+footer.site .foot-cta .btn-gold:hover{
+  color:var(--charcoal);transform:translateY(-2px);filter:brightness(1.06);
+}
+footer.site .foot-cta .btn-ghost{
+  color:#fff;border:1px solid rgba(232,213,161,.75);background:transparent;
+}
+footer.site .foot-cta .btn-ghost:hover{
+  color:#fff;background:rgba(232,213,161,.14);transform:translateY(-2px);
+}
+@media (max-width:560px){
+  footer.site .foot-cta .btn{padding:14px 26px;font-size:10.5px;letter-spacing:.2em}
+}
+
+/* Shout block sentences rendered as stacked paragraphs: give each
+   sentence its own line with breathing room between them. */
+.shout p{margin:0 0 .7em}
+.shout p:last-child{margin-bottom:0}

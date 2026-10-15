@@ -68,9 +68,9 @@ PHILOSOPHY = '''<div class="philosophy mt">
 # Pages that carry the recognition-philosophy statement at the top of the
 # content area (build.py prepends it before the page's own first heading).
 HERO_META = {
- "index.html": 'June 24 &nbsp;•&nbsp; <span>Fox Theatre</span> &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308<br>6 PM - Black Carpet Event &nbsp;•&nbsp; 8 PM - Tribute Awards',
+ "index.html": 'June 24TH &nbsp;•&nbsp; <span>Fox Theatre</span> &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308<br>6 PM - Black Carpet Event &nbsp;•&nbsp; 8 PM - Tribute Awards',
 }
-DEFAULT_HERO_META = 'June 24 &nbsp;•&nbsp; 8:00 PM Sharp &nbsp;•&nbsp; <span>Fox Theatre</span> &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308'
+DEFAULT_HERO_META = 'June 24TH &nbsp;•&nbsp; 8:00 PM Sharp &nbsp;•&nbsp; <span>Fox Theatre</span> &nbsp;•&nbsp; 660 Peachtree St. NE &nbsp;•&nbsp; Atlanta, GA 30308'
 
 PHILOSOPHY_PAGES = {
  "vision.html",        # 1. above "Our Vision"

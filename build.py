@@ -101,7 +101,7 @@ HEROES = {
                         "Mission. Vision. Selection process. The 2027 cultural focus — as established by the Legacy Executive Council.",
                         "hero_stage"),
  "legacy-hiphop.html": ("Our Legacy of Hip Hop",
-                        'OUR LEGACY<br><span class="foil">OF HIP HOP</span>',
+                        'OUR LEGACY<br><span class="foil">OF HIP-HOP</span>',
                         "Hip Hop is more than music. It is a movement, a culture, a voice — a story of creativity, resilience, identity, and expression.",
                         "hero_mic"),
  "tributes.html":      ("Seeing What Was Not Yet Seen",
@@ -271,7 +271,7 @@ def page(fname):
 <body>
 
 <div class="topbar">
-  <span class="tb-row">June 24, 2027 &nbsp;•&nbsp; <b>8:00 PM Sharp</b> &nbsp;•&nbsp; Fox Theatre &nbsp;•&nbsp; Atlanta, GA</span>
+  <span class="tb-row">June 24TH, 2027 &nbsp;•&nbsp; <b>8:00 PM Sharp</b> &nbsp;•&nbsp; Fox Theatre &nbsp;•&nbsp; Atlanta, GA</span>
   <span class="tb-row">info@championworldwidevents.com</span>
 </div>
 

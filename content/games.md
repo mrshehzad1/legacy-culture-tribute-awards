@@ -1,6 +1,6 @@
 # LEGACY GAMES
 
-**A Basketball Triple Header**
+**A Basketball Double Header**
 
 Legacy Games brings together basketball, Hip Hop, R&amp;B, entertainment, and culture for an unforgettable day in Atlanta.
 
@@ -9,27 +9,25 @@ Legacy Games brings together basketball, Hip Hop, R&amp;B, entertainment, and cu
 ## Event Schedule &amp; Matchups
 
 <div class="grid3 mt-sm">
-<div class="card"><div class="sub">2:00 PM – 4:00 PM</div><h3>Men's Legends Basketball Game</h3><p><strong>New York vs. Atlanta</strong></p></div>
-<div class="card"><div class="sub">4:00 PM – 6:00 PM</div><h3>Legacy Pro Women's Basketball Game</h3><p><strong>New York vs. Atlanta</strong></p></div>
-<div class="card"><div class="sub">6:00 PM – 8:00 PM</div><h3>Celebrity Basketball Game</h3><p><strong>New York Hip Hop All-Stars vs. Atlanta R&amp;B All-Stars</strong></p></div>
+<div class="card"><div class="sub">4:00 PM – 6:00 PM</div><h3>Legacy Pro Women's Basketball Game</h3><p><strong>New York vs. Atlanta</strong></p><hr><div class="sub">6:00 PM – 8:00 PM</div><h3>Celebrity Basketball Game</h3><p><strong>New York Hip Hop All-Stars vs. Atlanta R&amp;B All-Stars</strong></p></div>
 </div>
 
 ## Event Highlights &amp; Entertainment
 
 - **Halftime Performances:** To Be Announced
 - **Basketball Giveaways:** Exciting basketball-themed giveaways held throughout the event.
-- **Contests &amp; Prizes:** On-court fan participation contests with special prizes awarded during all three games.
+- **Contests &amp; Prizes:** On-court fan participation contests with special prizes awarded during all games.
 
 ---
 
 ### Ticket Pricing
 
-One ticket grants access to the entire Legacy Games experience, including all three basketball games, halftime shows, giveaways, and contests.
+One ticket grants access to the entire Legacy Games experience, including both basketball games, halftime shows, giveaways, and contests.
 
 <div class="tiers mt-sm">
-<div class="tier"><div class="num">Adults</div><div class="price">$45</div><p>Full-day access to all three games.</p></div>
-<div class="tier"><div class="num">Seniors</div><div class="price">$25</div><p>Full-day access to all three games.</p></div>
-<div class="tier"><div class="num">Kids 4–12</div><div class="price">$15</div><p>Full-day access to all three games.</p></div>
+<div class="tier"><div class="num">Adults</div><div class="price">$40</div><p>Full-day access to all games.</p></div>
+<div class="tier"><div class="num">Seniors</div><div class="price">$25</div><p>Full-day access to all games.</p></div>
+<div class="tier"><div class="num">Kids 4–12</div><div class="price">$15</div><p>Full-day access to all games.</p></div>
 <div class="tier"><div class="num">Children 3 &amp; Under</div><div class="price">FREE</div><p>Admitted free with ticketed adult.</p></div>
 </div>
 

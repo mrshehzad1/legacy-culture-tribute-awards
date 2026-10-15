@@ -1,4 +1,4 @@
-## LEGACY EXECUTIVE COUNCIL IN THE COMMUNITY
+## LEGACY &amp; COMMUNITY
 
 Legacy Culture is supported by an extended network of artists, entertainers, executives, entrepreneurs, cultural leaders, and influential members of the music and entertainment community.
 

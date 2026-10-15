@@ -252,7 +252,7 @@ def page(fname):
     eyebrow, title, lede, img = HEROES[fname]
     hero_extra = HERO_EXTRA.get(fname, "")
     hero_meta = HERO_META.get(fname, DEFAULT_HERO_META)
-    plain_title = re.sub("<[^>]+>", " ", title).strip()
+    plain_title = re.sub(r"\s+", " ", re.sub("<[^>]+>", " ", title).strip())
     plain_lede = re.sub("<[^>]+>", " ", lede).strip()
     nav = nav_links(fname)
     return f'''<!DOCTYPE html>

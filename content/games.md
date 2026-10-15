@@ -57,6 +57,6 @@ A portion of all event proceeds will benefit a Hip Hop-focused nonprofit organiz
 
 **Location:** Gateway Center Arena @ College Park
 
-<div class="shout center">Three Games. Two Cities. One Legacy.</div>
+<div class="shout center">Two Games. Two Cities. One Legacy.</div>
 
 *\*Subject to change*

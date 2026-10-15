@@ -118,7 +118,7 @@ HEROES = {
                         "hero_red"),
  "games.html":         ("Saturday, June 26, 2027 — Atlanta",
                         'LEGACY<br><span class="foil">GAMES</span>',
-                        "A basketball triple header where Hip Hop, R&amp;B, entertainment and culture meet for an unforgettable day.",
+                        "A basketball double header where Hip Hop, R&amp;B, entertainment and culture meet for an unforgettable day.",
                         "hero_sport"),
  "press.html":         ("Press Highlights",
                         'PRESS<br><span class="foil">HIGHLIGHTS</span>',

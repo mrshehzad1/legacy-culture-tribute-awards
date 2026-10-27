@@ -26,11 +26,11 @@ Her journey began during the early years of Hip-Hop as a lyricist, rapper, chore
 
 Champion earned second place in the National Swatch Watch Breakdance Competition, marking an important achievement during the emergence of Hip-Hop dance on the national stage.
 
-Swatch Watch National Breakdance Competition: [INSERT LINK]
+Swatch Watch National Breakdance Competition: [Watch the video](https://youtu.be/WWx7K0tt1lg?is=sk6ZD-d1dpii7Xm1)
 
 Her dance career also included performing and choreographing with Julie Arenal in a New York dance presentation celebrating Hip-Hop, Electric Boogie, and New York culture. The performance, connected to the Statue of Liberty, was introduced by acclaimed actor Robert De Niro.
 
-Statue of Liberty Dance Performance: [INSERT LINK]
+Statue of Liberty Dance Performance: [Watch the video](https://youtu.be/31YskQlVg60?is=tHMWRjXkYnms-Fn3)
 
 Champion later transitioned from performer and choreographer to producer and entrepreneur, organizing more than 50 community and cultural events and creating platforms connecting sports, entertainment, and community.
 
@@ -38,7 +38,7 @@ She founded the National Street Basketball Association (NSBA) and developed its 
 
 The NSBA legacy includes Congressional Proclamation • Jill Nicolini / Channel 11 • NY1 • Streetball Legends • NSBA Pro Ball • Tournaments • Hall of Fame • Youth Programs • Media Archive.
 
-NY1 Interview: [INSERT LINK]
+NY1 Interview: [Watch the video](https://youtu.be/pplGVSNRXwE?is=hbqHBIT1tJMuNoel)
 Channel 11 / Jill Nicolini Interview: [INSERT LINK]
 
 Champion is also the founder of Creating Athletes for America Inc., a 501(c)(3) nonprofit supporting student-athletes ages 7–18 through sports, mentorship, leadership, academics, and community engagement.
@@ -68,6 +68,24 @@ In 2021, Hernandez transformed 1BALL into Building Athletic Learning Leaders, cr
 His leadership also extends into education and music. As a Beacon Program Director, Hernandez provides young people with athletic opportunities and access to facilities and programming. At his school, he built a full recording studio, giving students access to recording, music production, creativity, and self-expression.
 
 As an Executive Council Member, Hernandez brings a unique combination of streetball credibility, basketball leadership, talent-development experience, education, mentorship, music, and youth engagement to the Legacy Culture &amp; Music Tribute Awards.
+
+---
+
+### MERCEDES HARRINGTON
+
+<div class="sub">Public Relations &amp; Marketing Professional</div>
+
+Mercedes Harrington is a seasoned public relations and marketing professional with more than 25 years of experience in media relations, strategic communications, special events, artist promotion, community engagement, and brand development. Her career reflects a passion for connecting people, creating opportunities, and building relationships that bring ideas to life.
+
+Harrington began her journey in journalism, writing for The Source, Amsterdam News, and Women’s National News. Her expertise in communications and media placement has helped secure visibility for artists and clients in prominent publications, including Vibe, Esquire, New York Magazine, and the New York Post.
+
+Throughout her career, she has coordinated special events and public relations initiatives for organizations including Harlem Week, the AUDELCO Awards, Greek Fest, the United Negro College Fund, and Gospel Fest. She has also worked with renowned entertainers, including James Brown, George Clinton and the Funkadelic All-Stars, MC Hammer, and Cuba Gooding Sr., while consulting with leading music industry organizations and record labels.
+
+Harrington’s professional experience extends to corporate sponsorships, nonprofit development, political communications, and community outreach. She has collaborated with major brands, supported emerging talent, and helped organizations strengthen their public image and community impact. Her international experience spans the United States, the Caribbean, Europe, Japan, Israel, and Cuba.
+
+A dedicated advocate for community empowerment, Harrington founded the Hope 4U Foundation, an organization focused on helping young people develop through travel, communication, and life experiences.
+
+She holds a Bachelor of Business Administration from Catawba College and a Master of Science in Education in Transformative Learning. Her honors include the Outstanding Community Service Award from Congressman Charles B. Rangel, recognizing her commitment to service, communication, and community advancement.
 
 ---
 
